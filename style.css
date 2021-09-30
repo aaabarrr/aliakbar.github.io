@@ -1,0 +1,24 @@
+body{
+    min-height: 2000px;
+}
+
+.navbar
+{
+    background-image: linear-gradient(to right, #4682B4, #00FFFF, #00FA9A);;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.jumbotron
+{
+    padding-top: 6rem;
+    background-image: linear-gradient(to right, #4682B4, #00FFFF, #00FA9A);
+}
+#Experience{
+    background-color: #00FFFF;
+}
+.footer{
+    background-color: #00FA9A;
+}
+section{
+    padding-top: 5rem;
+}
